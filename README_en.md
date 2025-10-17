@@ -21,6 +21,9 @@
   </tr>
 </table>
 
+> [!TIP]
+> If you want to get started quickly without using the command line, go to the [Releases](https://github.com/chzane/YoloTrainingVisualizationPlatform/releases/) page to download the executable quick starter.
+
 ## ✨ Features
 
 - Simple interface, quick and easy to use
