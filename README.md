@@ -21,6 +21,9 @@
   </tr>
 </table>
 
+> [!TIP]
+> 如果您希望快速开始使用而不是使用命令行操作，请前往[Releases](https://github.com/chzane/YoloTrainingVisualizationPlatform/releases/)页面下载可执行文件快速启动程序。
+
 ## ✨ 功能
 
 - 页面简洁，快速易上手
